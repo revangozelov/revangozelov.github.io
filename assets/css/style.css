@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
      background-size:cover;
      }
 
-
+/* 
      #corItem0{
         background: linear-gradient(109.15deg, #3176B4 12.11%, #083E6D 91.61%);
         background-size: cover;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
      #corItem2{
         background: linear-gradient(109.15deg, #083E6D 12.11%, #ffffff 91.61%);
         background-size: cover;
-    }
+    } */
 
 
 .carousel-control-next, 
