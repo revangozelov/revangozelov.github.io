@@ -140,6 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 /*******************************/
 #myCarousel{
   background: linear-gradient(109.15deg, #3176B4 12.11%, #083E6D 91.61%);
+  background-size: cover;
 }
 .carousel-inner{
     position: relative;
