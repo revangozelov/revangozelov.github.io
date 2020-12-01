@@ -141,13 +141,14 @@ h1, h2, h3, h4, h5, h6 {
 #myCarousel{
   background: linear-gradient(109.15deg, #3176B4 12.11%, #083E6D 91.61%);
   background-size: cover;
+  padding-top: 100px;
 }
 .carousel-inner{
     position: relative;
     padding: 1px;
     z-index: 1;
     border-radius: 6px;
-    margin-top: 100px;
+   
     
 }
 #myCarousel .carousel-item .mask {
