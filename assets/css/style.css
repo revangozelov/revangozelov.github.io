@@ -185,11 +185,11 @@ h1, h2, h3, h4, h5, h6 {
     animation-fill-mode: both;
 }
 #myCarousel .container {
-    max-width: 1430px;  
+    max-width: 1140px;  
 }
 #myCarousel .carousel-item{
     height:100%; 
-    min-height:550px; 
+    min-height:400px; 
     margin: 20px;
 }
 #myCarousel{position:relative; 
