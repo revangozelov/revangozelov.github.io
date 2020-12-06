@@ -17,6 +17,25 @@
   border-radius: 6px;
   z-index: 1;
 }
+.navbar-brand {
+  padding: 5px 0px;
+}
+.navbar-brand {
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
