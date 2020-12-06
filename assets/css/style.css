@@ -42,6 +42,22 @@
 }
 
 
+@media (max-width: 992px) {
+  .mainlogo img {
+    width: 170px;
+  
+  }
+  .mainlogo {
+    width: 212px;
+   
+}
+
+
+
+}
+
+
+
 
 body {
   font-family: "Open Sans", sans-serif;
