@@ -37,10 +37,12 @@
   line-height: 20px;
 }
 .mainlogo img {
-  width: 368px;
+  width: 290px;
   margin-top: 40px;
 }
-
+#header .logo img {
+  max-height: 70px;
+}
 
 
 body {
