@@ -38,11 +38,9 @@
 }
 .mainlogo img {
   width: 290px;
-  margin-top: 40px;
+
 }
-#header .logo img {
-  max-height: 70px;
-}
+
 
 
 body {
@@ -168,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 
